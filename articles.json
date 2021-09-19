@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "url": "https://cyberleninka.ru/article/n/metody-predvaritelnoy-optimizatsii-programm-na-yazyke-javascript",
     "slug": "metody-predvaritelnoy-optimizatsii-programm-na-yazyke-javascript",
     "title": "Методы предварительной оптимизации программ на языке JavaScript",
@@ -8,6 +9,7 @@
     "download_url": "https://cyberleninka.ru/article/n/metody-predvaritelnoy-optimizatsii-programm-na-yazyke-javascript/pdf"
   },
   {
+    "id": 2,
     "url": "https://cyberleninka.ru/article/n/metody-optimizatsii-programm-na-yazyke-javascript-osnovannye-na-statistike-vypolneniya-programmy",
     "slug": "metody-optimizatsii-programm-na-yazyke-javascript-osnovannye-na-statistike-vypolneniya-programmy",
     "title": "Методы оптимизации программ на языке JavaScript, основанные на статистике выполнения программы",
@@ -16,6 +18,7 @@
     "download_url": "https://cyberleninka.ru/article/n/metody-optimizatsii-programm-na-yazyke-javascript-osnovannye-na-statistike-vypolneniya-programmy/pdf"
   },
   {
+    "id": 3,
     "url": "https://cyberleninka.ru/article/n/approaches-to-optimizing-v8-javascript-engine",
     "slug": "approaches-to-optimizing-v8-javascript-engine",
     "title": "Approaches to optimizing v8 JavaScript engine",
@@ -24,6 +27,7 @@
     "download_url": "https://cyberleninka.ru/article/n/approaches-to-optimizing-v8-javascript-engine/pdf"
   },
   {
+    "id": 4,
     "url": "https://cyberleninka.ru/article/n/dinamicheskaya-kompilyatsiya-programm-na-yazyke-javascript-v-staticheski-tipizirovannoe-vnutrennee-predstavlenie-llvm",
     "slug": "dinamicheskaya-kompilyatsiya-programm-na-yazyke-javascript-v-staticheski-tipizirovannoe-vnutrennee-predstavlenie-llvm",
     "title": "Динамическая компиляция программ на языке JavaScript в статически типизированное внутреннее представление llvm",
@@ -32,6 +36,7 @@
     "download_url": "https://cyberleninka.ru/article/n/dinamicheskaya-kompilyatsiya-programm-na-yazyke-javascript-v-staticheski-tipizirovannoe-vnutrennee-predstavlenie-llvm/pdf"
   },
   {
+    "id": 5,
     "url": "https://cyberleninka.ru/article/n/metody-dinamicheskoy-i-predvaritelnoy-optimizatsii-programm-na-yazyke-javassrirt",
     "slug": "metody-dinamicheskoy-i-predvaritelnoy-optimizatsii-programm-na-yazyke-javassrirt",
     "title": "Методы динамической и предварительной оптимизации программ на языке jаvаsсriрt",
@@ -40,6 +45,7 @@
     "download_url": "https://cyberleninka.ru/article/n/metody-dinamicheskoy-i-predvaritelnoy-optimizatsii-programm-na-yazyke-javassrirt/pdf"
   },
   {
+    "id": 6,
     "url": "https://cyberleninka.ru/article/n/tehnologii-optimizatsii-raboty-sayta-na-primere-analiticheskoy-sistemy-publikatsionnoy-aktivnosti-penzenskogo-gosudarstvennogo",
     "slug": "tehnologii-optimizatsii-raboty-sayta-na-primere-analiticheskoy-sistemy-publikatsionnoy-aktivnosti-penzenskogo-gosudarstvennogo",
     "title": "ТЕХНОЛОГИИ ОПТИМИЗАЦИИ РАБОТЫ САЙТА НА ПРИМЕРЕ АНАЛИТИЧЕСКОЙ СИСТЕМЫ ПУБЛИКАЦИОННОЙ АКТИВНОСТИ ПЕНЗЕНСКОГО ГОСУДАРСТВЕННОГО УНИВЕРСИТЕТА",
@@ -48,6 +54,7 @@
     "download_url": "https://cyberleninka.ru/article/n/tehnologii-optimizatsii-raboty-sayta-na-primere-analiticheskoy-sistemy-publikatsionnoy-aktivnosti-penzenskogo-gosudarstvennogo/pdf"
   },
   {
+    "id": 7,
     "url": "https://cyberleninka.ru/article/n/sistema-semanticheskoy-optimizatsii-soderzhimogo-veb-saytov-na-osnove-polzovatelskih-predpochteniy",
     "slug": "sistema-semanticheskoy-optimizatsii-soderzhimogo-veb-saytov-na-osnove-polzovatelskih-predpochteniy",
     "title": "Система семантической оптимизации содержимого веб-сайтов на основе пользовательских предпочтений",
@@ -56,6 +63,7 @@
     "download_url": "https://cyberleninka.ru/article/n/sistema-semanticheskoy-optimizatsii-soderzhimogo-veb-saytov-na-osnove-polzovatelskih-predpochteniy/pdf"
   },
   {
+    "id": 8,
     "url": "https://cyberleninka.ru/article/n/razrabotka-vnutrennego-predstavleniya-kompilyatora-kotlin-native-i-optimizatsiy-na-ego-osnove",
     "slug": "razrabotka-vnutrennego-predstavleniya-kompilyatora-kotlin-native-i-optimizatsiy-na-ego-osnove",
     "title": "РАЗРАБОТКА ВНУТРЕННЕГО ПРЕДСТАВЛЕНИЯ КОМПИЛЯТОРА KOTLIN / NATIVE И ОПТИМИЗАЦИЙ НА ЕГО ОСНОВЕ",
@@ -64,6 +72,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razrabotka-vnutrennego-predstavleniya-kompilyatora-kotlin-native-i-optimizatsiy-na-ego-osnove/pdf"
   },
   {
+    "id": 9,
     "url": "https://cyberleninka.ru/article/n/primenenie-informatsionnyh-tehnologiy-v-farmatsevticheskom-konsultirovanii",
     "slug": "primenenie-informatsionnyh-tehnologiy-v-farmatsevticheskom-konsultirovanii",
     "title": "Применение информационных технологий в фармацевтическом консультировании",
@@ -72,6 +81,7 @@
     "download_url": "https://cyberleninka.ru/article/n/primenenie-informatsionnyh-tehnologiy-v-farmatsevticheskom-konsultirovanii/pdf"
   },
   {
+    "id": 10,
     "url": "https://cyberleninka.ru/article/n/razrabotka-sredy-ispolneniya-yazyka-javascrit-dlya-arhitektury-elbrus",
     "slug": "razrabotka-sredy-ispolneniya-yazyka-javascrit-dlya-arhitektury-elbrus",
     "title": "Разработка среды исполнения языка javascrit для архитектуры Эльбрус",
@@ -80,6 +90,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razrabotka-sredy-ispolneniya-yazyka-javascrit-dlya-arhitektury-elbrus/pdf"
   },
   {
+    "id": 11,
     "url": "https://cyberleninka.ru/article/n/issledovanie-noveyshih-veb-tehnologiy-i-algoritmov-prodvizheniya-saytov",
     "slug": "issledovanie-noveyshih-veb-tehnologiy-i-algoritmov-prodvizheniya-saytov",
     "title": "Исследование новейших веб-технологий и алгоритмов продвижения сайтов",
@@ -88,6 +99,7 @@
     "download_url": "https://cyberleninka.ru/article/n/issledovanie-noveyshih-veb-tehnologiy-i-algoritmov-prodvizheniya-saytov/pdf"
   },
   {
+    "id": 12,
     "url": "https://cyberleninka.ru/article/n/raspredelennaya-vychislitelnaya-set-na-osnove-veb-brauzerov-novye-tehnologicheskie-vozmozhnosti",
     "slug": "raspredelennaya-vychislitelnaya-set-na-osnove-veb-brauzerov-novye-tehnologicheskie-vozmozhnosti",
     "title": "Распределенная вычислительная сеть на основе веб-браузеров: новые технологические возможности",
@@ -96,6 +108,7 @@
     "download_url": "https://cyberleninka.ru/article/n/raspredelennaya-vychislitelnaya-set-na-osnove-veb-brauzerov-novye-tehnologicheskie-vozmozhnosti/pdf"
   },
   {
+    "id": 13,
     "url": "https://cyberleninka.ru/article/n/razrabotka-prilozheniya-s-ispolzovaniem-tehnologiy-phonegap-javascript-html-i-jquery-mobile",
     "slug": "razrabotka-prilozheniya-s-ispolzovaniem-tehnologiy-phonegap-javascript-html-i-jquery-mobile",
     "title": "Разработка приложения с использованием технологий PhoneGap, JavaScript, html и jQuery Mobile",
@@ -104,6 +117,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razrabotka-prilozheniya-s-ispolzovaniem-tehnologiy-phonegap-javascript-html-i-jquery-mobile/pdf"
   },
   {
+    "id": 14,
     "url": "https://cyberleninka.ru/article/n/analiz-raboty-prilozheniya-s-ispolzovaniem-server-side-rendering-migratsiya-nastroyka-i-razvertyvanie-prilozheniya-next-js",
     "slug": "analiz-raboty-prilozheniya-s-ispolzovaniem-server-side-rendering-migratsiya-nastroyka-i-razvertyvanie-prilozheniya-next-js",
     "title": "АНАЛИЗ РАБОТЫ ПРИЛОЖЕНИЯ С ИСПОЛЬЗОВАНИЕМ SERVER-SIDE RENDERING: МИГРАЦИЯ, НАСТРОЙКА И РАЗВЕРТЫВАНИЕ ПРИЛОЖЕНИЯ NEXT.JS",
@@ -112,6 +126,7 @@
     "download_url": "https://cyberleninka.ru/article/n/analiz-raboty-prilozheniya-s-ispolzovaniem-server-side-rendering-migratsiya-nastroyka-i-razvertyvanie-prilozheniya-next-js/pdf"
   },
   {
+    "id": 15,
     "url": "https://cyberleninka.ru/article/n/testirovanie-sayta-gosudarstvennye-uslugi-rf-instrumentami-sovremennyh-web-tehnologiy-1",
     "slug": "testirovanie-sayta-gosudarstvennye-uslugi-rf-instrumentami-sovremennyh-web-tehnologiy-1",
     "title": "Тестирование сайта государственные услуги РФ инструментами современных web-технологий",
@@ -120,6 +135,7 @@
     "download_url": "https://cyberleninka.ru/article/n/testirovanie-sayta-gosudarstvennye-uslugi-rf-instrumentami-sovremennyh-web-tehnologiy-1/pdf"
   },
   {
+    "id": 16,
     "url": "https://cyberleninka.ru/article/n/testirovanie-sayta-gosudarstvennye-uslugi-rf-instrumentami-sovremennyh-web-tehnologiy",
     "slug": "testirovanie-sayta-gosudarstvennye-uslugi-rf-instrumentami-sovremennyh-web-tehnologiy",
     "title": "Тестирование сайта государственные услуги РФ инструментами современных web-технологий",
@@ -128,6 +144,7 @@
     "download_url": "https://cyberleninka.ru/article/n/testirovanie-sayta-gosudarstvennye-uslugi-rf-instrumentami-sovremennyh-web-tehnologiy/pdf"
   },
   {
+    "id": 17,
     "url": "https://cyberleninka.ru/article/n/nekotorye-voprosy-ispolzovaniya-tehnologii-webassembly-v-sovremennyh-brauzerah",
     "slug": "nekotorye-voprosy-ispolzovaniya-tehnologii-webassembly-v-sovremennyh-brauzerah",
     "title": "Некоторые вопросы использования технологии WebAssembly в современных браузерах",
@@ -136,6 +153,7 @@
     "download_url": "https://cyberleninka.ru/article/n/nekotorye-voprosy-ispolzovaniya-tehnologii-webassembly-v-sovremennyh-brauzerah/pdf"
   },
   {
+    "id": 18,
     "url": "https://cyberleninka.ru/article/n/razrabotka-sredstv-vizualizatsii-meditsinskih-dannyh-na-osnove-otkrytyh-javascript-bibliotek",
     "slug": "razrabotka-sredstv-vizualizatsii-meditsinskih-dannyh-na-osnove-otkrytyh-javascript-bibliotek",
     "title": "Разработка средств визуализации медицинских данных на основе открытых JavaScript библиотек",
@@ -144,6 +162,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razrabotka-sredstv-vizualizatsii-meditsinskih-dannyh-na-osnove-otkrytyh-javascript-bibliotek/pdf"
   },
   {
+    "id": 19,
     "url": "https://cyberleninka.ru/article/n/metody-poiska-anomalnyh-aktivnostey-veb-prilozheniy",
     "slug": "metody-poiska-anomalnyh-aktivnostey-veb-prilozheniy",
     "title": "Методы поиска аномальных активностей веб-приложений",
@@ -152,6 +171,7 @@
     "download_url": "https://cyberleninka.ru/article/n/metody-poiska-anomalnyh-aktivnostey-veb-prilozheniy/pdf"
   },
   {
+    "id": 20,
     "url": "https://cyberleninka.ru/article/n/veb-predstavitelstvo-kompanii-metody-i-instrumenty-razrabotki",
     "slug": "veb-predstavitelstvo-kompanii-metody-i-instrumenty-razrabotki",
     "title": "ВЕБ-ПРЕДСТАВИТЕЛЬСТВО КОМПАНИИ: МЕТОДЫ И ИНСТРУМЕНТЫ РАЗРАБОТКИ",
@@ -160,6 +180,7 @@
     "download_url": "https://cyberleninka.ru/article/n/veb-predstavitelstvo-kompanii-metody-i-instrumenty-razrabotki/pdf"
   },
   {
+    "id": 21,
     "url": "https://cyberleninka.ru/article/n/nekotorye-aspekty-otsenki-proizvoditelnosti-dinamichnyh-interaktivnyh-ajax-prilozheniy",
     "slug": "nekotorye-aspekty-otsenki-proizvoditelnosti-dinamichnyh-interaktivnyh-ajax-prilozheniy",
     "title": "Некоторые аспекты оценки производительности динамичных интерактивных Ajax – приложений",
@@ -168,6 +189,7 @@
     "download_url": "https://cyberleninka.ru/article/n/nekotorye-aspekty-otsenki-proizvoditelnosti-dinamichnyh-interaktivnyh-ajax-prilozheniy/pdf"
   },
   {
+    "id": 22,
     "url": "https://cyberleninka.ru/article/n/analiz-rezultatov-audita-setevyh-informatsionnyh-resursov-mchs-rossii",
     "slug": "analiz-rezultatov-audita-setevyh-informatsionnyh-resursov-mchs-rossii",
     "title": "Анализ результатов аудита сетевых информационных ресурсов МЧС России",
@@ -176,6 +198,7 @@
     "download_url": "https://cyberleninka.ru/article/n/analiz-rezultatov-audita-setevyh-informatsionnyh-resursov-mchs-rossii/pdf"
   },
   {
+    "id": 23,
     "url": "https://cyberleninka.ru/article/n/mnogochleny-ermita",
     "slug": "mnogochleny-ermita",
     "title": "Многочлены Эрмита",
@@ -184,6 +207,7 @@
     "download_url": "https://cyberleninka.ru/article/n/mnogochleny-ermita/pdf"
   },
   {
+    "id": 24,
     "url": "https://cyberleninka.ru/article/n/k-voprosu-o-dostizhenii-maksimalnoy-proizvoditelnosti-ajax-prilozheniy",
     "slug": "k-voprosu-o-dostizhenii-maksimalnoy-proizvoditelnosti-ajax-prilozheniy",
     "title": "К вопросу о достижении максимальной производительности AJAX-приложений",
@@ -192,6 +216,7 @@
     "download_url": "https://cyberleninka.ru/article/n/k-voprosu-o-dostizhenii-maksimalnoy-proizvoditelnosti-ajax-prilozheniy/pdf"
   },
   {
+    "id": 25,
     "url": "https://cyberleninka.ru/article/n/metody-sbora-informatsii-o-posetitelyah-korporativnogo-veb-sayta",
     "slug": "metody-sbora-informatsii-o-posetitelyah-korporativnogo-veb-sayta",
     "title": "Методы сбора информации о посетителях корпоративного веб-сайта",
@@ -200,6 +225,7 @@
     "download_url": "https://cyberleninka.ru/article/n/metody-sbora-informatsii-o-posetitelyah-korporativnogo-veb-sayta/pdf"
   },
   {
+    "id": 26,
     "url": "https://cyberleninka.ru/article/n/the-hybrid-compiler-targeting-javascript-language",
     "slug": "the-hybrid-compiler-targeting-javascript-language",
     "title": "The hybrid compiler targeting JavaScript language",
@@ -208,6 +234,7 @@
     "download_url": "https://cyberleninka.ru/article/n/the-hybrid-compiler-targeting-javascript-language/pdf"
   },
   {
+    "id": 27,
     "url": "https://cyberleninka.ru/article/n/ispolzovanie-veb-soketov-v-internet-prilozheniyah",
     "slug": "ispolzovanie-veb-soketov-v-internet-prilozheniyah",
     "title": "Использование веб-сокетов в Интернет приложениях",
@@ -216,6 +243,7 @@
     "download_url": "https://cyberleninka.ru/article/n/ispolzovanie-veb-soketov-v-internet-prilozheniyah/pdf"
   },
   {
+    "id": 28,
     "url": "https://cyberleninka.ru/article/n/sravnitelnoe-testirovanie-yazykov-programmirovaniya",
     "slug": "sravnitelnoe-testirovanie-yazykov-programmirovaniya",
     "title": "Сравнительное тестирование языков программирования",
@@ -224,6 +252,7 @@
     "download_url": "https://cyberleninka.ru/article/n/sravnitelnoe-testirovanie-yazykov-programmirovaniya/pdf"
   },
   {
+    "id": 29,
     "url": "https://cyberleninka.ru/article/n/tehnologiya-razrabotki-odnostranichnogo-veb-prilozheniya-na-platforme-angular-8",
     "slug": "tehnologiya-razrabotki-odnostranichnogo-veb-prilozheniya-na-platforme-angular-8",
     "title": "Технология разработки одностраничного веб-приложения на платформе Angular 8",
@@ -232,6 +261,7 @@
     "download_url": "https://cyberleninka.ru/article/n/tehnologiya-razrabotki-odnostranichnogo-veb-prilozheniya-na-platforme-angular-8/pdf"
   },
   {
+    "id": 30,
     "url": "https://cyberleninka.ru/article/n/webassembly-novyy-standart-kotoryy-izmenit-web",
     "slug": "webassembly-novyy-standart-kotoryy-izmenit-web",
     "title": "WebAssembly - новый стандарт который изменит Web",
@@ -240,6 +270,7 @@
     "download_url": "https://cyberleninka.ru/article/n/webassembly-novyy-standart-kotoryy-izmenit-web/pdf"
   },
   {
+    "id": 31,
     "url": "https://cyberleninka.ru/article/n/umenshenie-nagruzki-na-server-sredstvami-cms-drupal",
     "slug": "umenshenie-nagruzki-na-server-sredstvami-cms-drupal",
     "title": "Уменьшение нагрузки на сервер средствами CMS Drupal",
@@ -248,6 +279,7 @@
     "download_url": "https://cyberleninka.ru/article/n/umenshenie-nagruzki-na-server-sredstvami-cms-drupal/pdf"
   },
   {
+    "id": 32,
     "url": "https://cyberleninka.ru/article/n/optimizatsiya-proizvoditelnosti-veb-interfeysa-prilozheniya-nsuts-sredstvami-dinamicheskogo-html",
     "slug": "optimizatsiya-proizvoditelnosti-veb-interfeysa-prilozheniya-nsuts-sredstvami-dinamicheskogo-html",
     "title": "Оптимизация производительности веб-интерфейса приложения NSUts средствами динамического html",
@@ -256,6 +288,7 @@
     "download_url": "https://cyberleninka.ru/article/n/optimizatsiya-proizvoditelnosti-veb-interfeysa-prilozheniya-nsuts-sredstvami-dinamicheskogo-html/pdf"
   },
   {
+    "id": 33,
     "url": "https://cyberleninka.ru/article/n/osteklenie-zdaniy-energoeffektivnost-i-mikroklimat",
     "slug": "osteklenie-zdaniy-energoeffektivnost-i-mikroklimat",
     "title": "Остекление зданий: энергоэффективность и микроклимат",
@@ -264,6 +297,7 @@
     "download_url": "https://cyberleninka.ru/article/n/osteklenie-zdaniy-energoeffektivnost-i-mikroklimat/pdf"
   },
   {
+    "id": 34,
     "url": "https://cyberleninka.ru/article/n/razlichiya-bootstrap4-i-bootstrap5-pri-razrabotke-web-saytov",
     "slug": "razlichiya-bootstrap4-i-bootstrap5-pri-razrabotke-web-saytov",
     "title": "РАЗЛИЧИЯ BOOTSTRAP4 И BOOTSTRAP5 ПРИ РАЗРАБОТКЕ WEB-САЙТОВ",
@@ -272,6 +306,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razlichiya-bootstrap4-i-bootstrap5-pri-razrabotke-web-saytov/pdf"
   },
   {
+    "id": 35,
     "url": "https://cyberleninka.ru/article/n/rol-yazykov-programmirovaniya-v-sovremennyh-smartfonah",
     "slug": "rol-yazykov-programmirovaniya-v-sovremennyh-smartfonah",
     "title": "Роль языков программирования в современных смартфонах",
@@ -280,6 +315,7 @@
     "download_url": "https://cyberleninka.ru/article/n/rol-yazykov-programmirovaniya-v-sovremennyh-smartfonah/pdf"
   },
   {
+    "id": 36,
     "url": "https://cyberleninka.ru/article/n/primenenie-sredstv-open-source-dlya-vizualizatsii-standartizirovannyh-meditsinskih-dannyh",
     "slug": "primenenie-sredstv-open-source-dlya-vizualizatsii-standartizirovannyh-meditsinskih-dannyh",
     "title": "Применение средств open source для визуализации стандартизированных медицинских данных",
@@ -288,6 +324,7 @@
     "download_url": "https://cyberleninka.ru/article/n/primenenie-sredstv-open-source-dlya-vizualizatsii-standartizirovannyh-meditsinskih-dannyh/pdf"
   },
   {
+    "id": 37,
     "url": "https://cyberleninka.ru/article/n/arhitektura-obmena-dannymi-bez-poter-v-piringovom-veb-prilozhenii-videokonferents-svyazi",
     "slug": "arhitektura-obmena-dannymi-bez-poter-v-piringovom-veb-prilozhenii-videokonferents-svyazi",
     "title": "Архитектура обмена данными без потерь в пиринговом веб-приложении видеоконференц-связи",
@@ -296,6 +333,7 @@
     "download_url": "https://cyberleninka.ru/article/n/arhitektura-obmena-dannymi-bez-poter-v-piringovom-veb-prilozhenii-videokonferents-svyazi/pdf"
   },
   {
+    "id": 38,
     "url": "https://cyberleninka.ru/article/n/avtomatizirovannaya-obuchayuschaya-sistema-na-osnove-gipertekstovyh-dokumentov-formata-ntml",
     "slug": "avtomatizirovannaya-obuchayuschaya-sistema-na-osnove-gipertekstovyh-dokumentov-formata-ntml",
     "title": "Автоматизированная обучающая система на основе гипертекстовых документов формата нтмl",
@@ -304,6 +342,7 @@
     "download_url": "https://cyberleninka.ru/article/n/avtomatizirovannaya-obuchayuschaya-sistema-na-osnove-gipertekstovyh-dokumentov-formata-ntml/pdf"
   },
   {
+    "id": 39,
     "url": "https://cyberleninka.ru/article/n/klassifikatsiya-vidov-prakticheskih-rabot-i-ih-sootnoshenie-s-professionalnymi-kompetentsiyami-pri-izuchenii-distsiplin-po-web",
     "slug": "klassifikatsiya-vidov-prakticheskih-rabot-i-ih-sootnoshenie-s-professionalnymi-kompetentsiyami-pri-izuchenii-distsiplin-po-web",
     "title": "Классификация видов практических работ и их соотношение с профессиональными компетенциями при изучении дисциплин по web-разработкам",
@@ -312,6 +351,7 @@
     "download_url": "https://cyberleninka.ru/article/n/klassifikatsiya-vidov-prakticheskih-rabot-i-ih-sootnoshenie-s-professionalnymi-kompetentsiyami-pri-izuchenii-distsiplin-po-web/pdf"
   },
   {
+    "id": 40,
     "url": "https://cyberleninka.ru/article/n/application-of-finite-automata-with-genetic-algorithms-in-javascript-for-determination-of-manpower-system-control",
     "slug": "application-of-finite-automata-with-genetic-algorithms-in-javascript-for-determination-of-manpower-system-control",
     "title": "Application of finite automata with genetic algorithms in JavaScript for determination of manpower system control",
@@ -320,6 +360,7 @@
     "download_url": "https://cyberleninka.ru/article/n/application-of-finite-automata-with-genetic-algorithms-in-javascript-for-determination-of-manpower-system-control/pdf"
   },
   {
+    "id": 41,
     "url": "https://cyberleninka.ru/article/n/opyt-podgotovki-studentov-v-uchebno-issledovatelskoy-laboratorii-mfti-intel",
     "slug": "opyt-podgotovki-studentov-v-uchebno-issledovatelskoy-laboratorii-mfti-intel",
     "title": "Опыт подготовки студентов в учебно-исследовательской лаборатории МФТИ-Интел",
@@ -328,6 +369,7 @@
     "download_url": "https://cyberleninka.ru/article/n/opyt-podgotovki-studentov-v-uchebno-issledovatelskoy-laboratorii-mfti-intel/pdf"
   },
   {
+    "id": 42,
     "url": "https://cyberleninka.ru/article/n/vybor-veb-steka-dlya-realizatsii-tsifrovoy-sredy-predostavleniya-transportnyh-uslug",
     "slug": "vybor-veb-steka-dlya-realizatsii-tsifrovoy-sredy-predostavleniya-transportnyh-uslug",
     "title": "Выбор веб-стека для реализации цифровой среды предоставления транспортных услуг",
@@ -336,6 +378,7 @@
     "download_url": "https://cyberleninka.ru/article/n/vybor-veb-steka-dlya-realizatsii-tsifrovoy-sredy-predostavleniya-transportnyh-uslug/pdf"
   },
   {
+    "id": 43,
     "url": "https://cyberleninka.ru/article/n/o-soderzhanii-uchebnogo-kursa-gibridnye-prilozheniya-dlya-mobilnyh-ustroystv",
     "slug": "o-soderzhanii-uchebnogo-kursa-gibridnye-prilozheniya-dlya-mobilnyh-ustroystv",
     "title": "О содержании учебного курса «Гибридные приложения для мобильных устройств»",
@@ -344,6 +387,7 @@
     "download_url": "https://cyberleninka.ru/article/n/o-soderzhanii-uchebnogo-kursa-gibridnye-prilozheniya-dlya-mobilnyh-ustroystv/pdf"
   },
   {
+    "id": 44,
     "url": "https://cyberleninka.ru/article/n/modeli-vysokoproizvoditelnoy-vizualizatsii-dlya-krossplatformennyh-vychislitelnyh-zadach-biofotoniki",
     "slug": "modeli-vysokoproizvoditelnoy-vizualizatsii-dlya-krossplatformennyh-vychislitelnyh-zadach-biofotoniki",
     "title": "Модели высокопроизводительной визуализации для кроссплатформенных вычислительных задач биофотоники",
@@ -352,6 +396,7 @@
     "download_url": "https://cyberleninka.ru/article/n/modeli-vysokoproizvoditelnoy-vizualizatsii-dlya-krossplatformennyh-vychislitelnyh-zadach-biofotoniki/pdf"
   },
   {
+    "id": 45,
     "url": "https://cyberleninka.ru/article/n/oblachnye-tehnologii-v-podderzhku-sovremennoy-sisteme-obrazovaniya",
     "slug": "oblachnye-tehnologii-v-podderzhku-sovremennoy-sisteme-obrazovaniya",
     "title": "Облачные технологии в поддержку современной системе образования",
@@ -360,6 +405,7 @@
     "download_url": "https://cyberleninka.ru/article/n/oblachnye-tehnologii-v-podderzhku-sovremennoy-sisteme-obrazovaniya/pdf"
   },
   {
+    "id": 46,
     "url": "https://cyberleninka.ru/article/n/sovremennye-freymvorki-dlya-razrabotki-web-prilozheniy",
     "slug": "sovremennye-freymvorki-dlya-razrabotki-web-prilozheniy",
     "title": "СОВРЕМЕННЫЕ ФРЕЙМВОРКИ ДЛЯ РАЗРАБОТКИ WEB-ПРИЛОЖЕНИЙ",
@@ -368,6 +414,7 @@
     "download_url": "https://cyberleninka.ru/article/n/sovremennye-freymvorki-dlya-razrabotki-web-prilozheniy/pdf"
   },
   {
+    "id": 47,
     "url": "https://cyberleninka.ru/article/n/razrabotka-modulya-billingovoy-sistemy-dlya-vizualizatsii-tekstovyh-dannyh",
     "slug": "razrabotka-modulya-billingovoy-sistemy-dlya-vizualizatsii-tekstovyh-dannyh",
     "title": "Разработка модуля биллинговой системы для визуализации текстовых данных",
@@ -376,6 +423,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razrabotka-modulya-billingovoy-sistemy-dlya-vizualizatsii-tekstovyh-dannyh/pdf"
   },
   {
+    "id": 48,
     "url": "https://cyberleninka.ru/article/n/razrabotka-modulya-avtomatizirovannoy-sistemy-raschetov-dlya-vizualizatsii-tekstovyh-dannyh",
     "slug": "razrabotka-modulya-avtomatizirovannoy-sistemy-raschetov-dlya-vizualizatsii-tekstovyh-dannyh",
     "title": "Разработка модуля автоматизированной системы расчетов для визуализации текстовых данных",
@@ -384,6 +432,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razrabotka-modulya-avtomatizirovannoy-sistemy-raschetov-dlya-vizualizatsii-tekstovyh-dannyh/pdf"
   },
   {
+    "id": 49,
     "url": "https://cyberleninka.ru/article/n/programmnyy-modul-dlya-upravleniya-predstavleniem-informatsii-v-sisteme-elektronnogo-obucheniya",
     "slug": "programmnyy-modul-dlya-upravleniya-predstavleniem-informatsii-v-sisteme-elektronnogo-obucheniya",
     "title": "Программный модуль для управления представлением информации в системе электронного обучения",
@@ -392,6 +441,7 @@
     "download_url": "https://cyberleninka.ru/article/n/programmnyy-modul-dlya-upravleniya-predstavleniem-informatsii-v-sisteme-elektronnogo-obucheniya/pdf"
   },
   {
+    "id": 50,
     "url": "https://cyberleninka.ru/article/n/sozdanie-informatsionno-analiticheskoy-sredy-dlya-upravleniya-transportnymi-potokami",
     "slug": "sozdanie-informatsionno-analiticheskoy-sredy-dlya-upravleniya-transportnymi-potokami",
     "title": "СОЗДАНИЕ ИНФОРМАЦИОННО-АНАЛИТИЧЕСКОЙ СРЕДЫ ДЛЯ УПРАВЛЕНИЯ ТРАНСПОРТНЫМИ ПОТОКАМИ",
@@ -400,6 +450,7 @@
     "download_url": "https://cyberleninka.ru/article/n/sozdanie-informatsionno-analiticheskoy-sredy-dlya-upravleniya-transportnymi-potokami/pdf"
   },
   {
+    "id": 51,
     "url": "https://cyberleninka.ru/article/n/sravnitelnyy-analiz-tehnologiy-sozdaniya-web-saytov",
     "slug": "sravnitelnyy-analiz-tehnologiy-sozdaniya-web-saytov",
     "title": "Сравнительный анализ технологий создания Web-сайтов",
@@ -408,6 +459,7 @@
     "download_url": "https://cyberleninka.ru/article/n/sravnitelnyy-analiz-tehnologiy-sozdaniya-web-saytov/pdf"
   },
   {
+    "id": 52,
     "url": "https://cyberleninka.ru/article/n/sposob-identifikatsii-polzovatelya-v-seti-internet",
     "slug": "sposob-identifikatsii-polzovatelya-v-seti-internet",
     "title": "Способ идентификации пользователя в сети Интернет",
@@ -416,6 +468,7 @@
     "download_url": "https://cyberleninka.ru/article/n/sposob-identifikatsii-polzovatelya-v-seti-internet/pdf"
   },
   {
+    "id": 53,
     "url": "https://cyberleninka.ru/article/n/algoritm-dinamicheskoy-obfuskatsii-informatsii-s-ogranicheniem-kolichestva-popytok-rasshifrovki-ispolneniya-i-prosmotra-na-web",
     "slug": "algoritm-dinamicheskoy-obfuskatsii-informatsii-s-ogranicheniem-kolichestva-popytok-rasshifrovki-ispolneniya-i-prosmotra-na-web",
     "title": "АЛГОРИТМ ДИНАМИЧЕСКОЙ ОБФУСКАЦИИ ИНФОРМАЦИИ С ОГРАНИЧЕНИЕМ КОЛИЧЕСТВА ПОПЫТОК РАСШИФРОВКИ, ИСПОЛНЕНИЯ И ПРОСМОТРА НА WEB-КЛИЕНТЕ",
@@ -424,6 +477,7 @@
     "download_url": "https://cyberleninka.ru/article/n/algoritm-dinamicheskoy-obfuskatsii-informatsii-s-ogranicheniem-kolichestva-popytok-rasshifrovki-ispolneniya-i-prosmotra-na-web/pdf"
   },
   {
+    "id": 54,
     "url": "https://cyberleninka.ru/article/n/predstavlenie-ustroystv-interneta-veschey-v-vide-veb-servisov-i-avtomatizatsiya-ih-vzaimodeystviya",
     "slug": "predstavlenie-ustroystv-interneta-veschey-v-vide-veb-servisov-i-avtomatizatsiya-ih-vzaimodeystviya",
     "title": "Представление устройств интернета вещей в виде веб-сервисов и автоматизация их взаимодействия",
@@ -432,6 +486,7 @@
     "download_url": "https://cyberleninka.ru/article/n/predstavlenie-ustroystv-interneta-veschey-v-vide-veb-servisov-i-avtomatizatsiya-ih-vzaimodeystviya/pdf"
   },
   {
+    "id": 55,
     "url": "https://cyberleninka.ru/article/n/informatsionnoe-obespechenie-innovatsionnogo-menedzhmenta-v-obrazovanii",
     "slug": "informatsionnoe-obespechenie-innovatsionnogo-menedzhmenta-v-obrazovanii",
     "title": "Информационное обеспечение инновационного менеджмента в образовании",
@@ -440,6 +495,7 @@
     "download_url": "https://cyberleninka.ru/article/n/informatsionnoe-obespechenie-innovatsionnogo-menedzhmenta-v-obrazovanii/pdf"
   },
   {
+    "id": 56,
     "url": "https://cyberleninka.ru/article/n/metod-optimizatsii-protsessa-testirovaniya-veb-resursov-na-osnove-mnogokriterialnogo-podhoda",
     "slug": "metod-optimizatsii-protsessa-testirovaniya-veb-resursov-na-osnove-mnogokriterialnogo-podhoda",
     "title": "Метод оптимизации процесса тестирования веб-ресурсов на основе многокритериального подхода",
@@ -448,6 +504,7 @@
     "download_url": "https://cyberleninka.ru/article/n/metod-optimizatsii-protsessa-testirovaniya-veb-resursov-na-osnove-mnogokriterialnogo-podhoda/pdf"
   },
   {
+    "id": 57,
     "url": "https://cyberleninka.ru/article/n/problemy-vybora-yazykov-programmirovaniya-pri-razrabotke-krossplatformennyh-prilozheniy",
     "slug": "problemy-vybora-yazykov-programmirovaniya-pri-razrabotke-krossplatformennyh-prilozheniy",
     "title": "Проблемы выбора языков программирования при разработке кроссплатформенных приложений",
@@ -456,6 +513,7 @@
     "download_url": "https://cyberleninka.ru/article/n/problemy-vybora-yazykov-programmirovaniya-pri-razrabotke-krossplatformennyh-prilozheniy/pdf"
   },
   {
+    "id": 58,
     "url": "https://cyberleninka.ru/article/n/vybor-tehnologicheskih-resheniy-dlya-razrabotki-programmnogo-obespecheniya-raspredelennyh-informatsionnyh-sistem",
     "slug": "vybor-tehnologicheskih-resheniy-dlya-razrabotki-programmnogo-obespecheniya-raspredelennyh-informatsionnyh-sistem",
     "title": "Выбор технологических решений для разработки программного обеспечения распределенных информационных систем",
@@ -464,6 +522,7 @@
     "download_url": "https://cyberleninka.ru/article/n/vybor-tehnologicheskih-resheniy-dlya-razrabotki-programmnogo-obespecheniya-raspredelennyh-informatsionnyh-sistem/pdf"
   },
   {
+    "id": 59,
     "url": "https://cyberleninka.ru/article/n/metody-zaschity-dannyh-v-seti-internet-na-storone-klienta",
     "slug": "metody-zaschity-dannyh-v-seti-internet-na-storone-klienta",
     "title": "Методы защиты данных в сети Интернет на стороне клиента",
@@ -472,6 +531,7 @@
     "download_url": "https://cyberleninka.ru/article/n/metody-zaschity-dannyh-v-seti-internet-na-storone-klienta/pdf"
   },
   {
+    "id": 60,
     "url": "https://cyberleninka.ru/article/n/sravnitelnyy-analiz-arhitektur-krossplatformennogo-programmnogo-obespecheniya",
     "slug": "sravnitelnyy-analiz-arhitektur-krossplatformennogo-programmnogo-obespecheniya",
     "title": "СРАВНИТЕЛЬНЫЙ АНАЛИЗ АРХИТЕКТУР КРОССПЛАТФОРМЕННОГО ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ",
@@ -480,6 +540,7 @@
     "download_url": "https://cyberleninka.ru/article/n/sravnitelnyy-analiz-arhitektur-krossplatformennogo-programmnogo-obespecheniya/pdf"
   },
   {
+    "id": 61,
     "url": "https://cyberleninka.ru/article/n/ispolzovanie-setevoy-bazy-dannyh-dlya-hraneniya-slozhnostrukturirovannyh-dannyh-na-storone-klienta-v-informatsionnoy-sisteme-s-web",
     "slug": "ispolzovanie-setevoy-bazy-dannyh-dlya-hraneniya-slozhnostrukturirovannyh-dannyh-na-storone-klienta-v-informatsionnoy-sisteme-s-web",
     "title": "Использование сетевой базы данных для хранения сложноструктурированных данных на стороне клиента в информационной системе с web-интерфейсом",
@@ -488,6 +549,7 @@
     "download_url": "https://cyberleninka.ru/article/n/ispolzovanie-setevoy-bazy-dannyh-dlya-hraneniya-slozhnostrukturirovannyh-dannyh-na-storone-klienta-v-informatsionnoy-sisteme-s-web/pdf"
   },
   {
+    "id": 62,
     "url": "https://cyberleninka.ru/article/n/o-razrabotke-novogo-podhoda-dlya-ischisleniya-parametrov-raschetnoy-lesoseki-neistoschitelnogo-polzovaniya",
     "slug": "o-razrabotke-novogo-podhoda-dlya-ischisleniya-parametrov-raschetnoy-lesoseki-neistoschitelnogo-polzovaniya",
     "title": "О разработке нового подхода для исчисления параметров расчетной лесосеки неистощительного пользования",
@@ -496,6 +558,7 @@
     "download_url": "https://cyberleninka.ru/article/n/o-razrabotke-novogo-podhoda-dlya-ischisleniya-parametrov-raschetnoy-lesoseki-neistoschitelnogo-polzovaniya/pdf"
   },
   {
+    "id": 63,
     "url": "https://cyberleninka.ru/article/n/avtomatizatsiya-rascheta-nagrevov-dvigatelya-s-primeneniem-ustroystva-plavnogo-puska-na-baze-algoritma-rascheta-samozapuska",
     "slug": "avtomatizatsiya-rascheta-nagrevov-dvigatelya-s-primeneniem-ustroystva-plavnogo-puska-na-baze-algoritma-rascheta-samozapuska",
     "title": "АВТОМАТИЗАЦИЯ РАСЧЕТА НАГРЕВОВ ДВИГАТЕЛЯ С ПРИМЕНЕНИЕМ УСТРОЙСТВА ПЛАВНОГО ПУСКА НА БАЗЕ АЛГОРИТМА РАСЧЕТА САМОЗАПУСКА",
@@ -504,6 +567,7 @@
     "download_url": "https://cyberleninka.ru/article/n/avtomatizatsiya-rascheta-nagrevov-dvigatelya-s-primeneniem-ustroystva-plavnogo-puska-na-baze-algoritma-rascheta-samozapuska/pdf"
   },
   {
+    "id": 64,
     "url": "https://cyberleninka.ru/article/n/problemy-klientskoy-proizvoditelnosti-informatsionnyh-resursov-seti",
     "slug": "problemy-klientskoy-proizvoditelnosti-informatsionnyh-resursov-seti",
     "title": "Проблемы клиентской производительности информационных ресурсов Сети",
@@ -512,6 +576,7 @@
     "download_url": "https://cyberleninka.ru/article/n/problemy-klientskoy-proizvoditelnosti-informatsionnyh-resursov-seti/pdf"
   },
   {
+    "id": 65,
     "url": "https://cyberleninka.ru/article/n/tehnologii-i-instrumenty-3d-modelirovaniya-v-brauzere",
     "slug": "tehnologii-i-instrumenty-3d-modelirovaniya-v-brauzere",
     "title": "Технологии и инструменты 3D моделирования в браузере",
@@ -520,6 +585,7 @@
     "download_url": "https://cyberleninka.ru/article/n/tehnologii-i-instrumenty-3d-modelirovaniya-v-brauzere/pdf"
   },
   {
+    "id": 66,
     "url": "https://cyberleninka.ru/article/n/upravlenie-obrazovatelnoy-programmoy-vuzov-v-kontekste-podgotovki-konkurentosposobnyh-razrabotchikov-programmnogo-obespecheniya",
     "slug": "upravlenie-obrazovatelnoy-programmoy-vuzov-v-kontekste-podgotovki-konkurentosposobnyh-razrabotchikov-programmnogo-obespecheniya",
     "title": "Управление образовательной программой вузов в контексте подготовки конкурентоспособных разработчиков программного обеспечения",
@@ -528,6 +594,7 @@
     "download_url": "https://cyberleninka.ru/article/n/upravlenie-obrazovatelnoy-programmoy-vuzov-v-kontekste-podgotovki-konkurentosposobnyh-razrabotchikov-programmnogo-obespecheniya/pdf"
   },
   {
+    "id": 67,
     "url": "https://cyberleninka.ru/article/n/programmnye-instrumenty-i-tehnologii-analiza-potoka-internet-memov",
     "slug": "programmnye-instrumenty-i-tehnologii-analiza-potoka-internet-memov",
     "title": "ПРОГРАММНЫЕ ИНСТРУМЕНТЫ И ТЕХНОЛОГИИ АНАЛИЗА ПОТОКА ИНТЕРНЕТ-МЕМОВ",
@@ -536,6 +603,7 @@
     "download_url": "https://cyberleninka.ru/article/n/programmnye-instrumenty-i-tehnologii-analiza-potoka-internet-memov/pdf"
   },
   {
+    "id": 68,
     "url": "https://cyberleninka.ru/article/n/razrabotka-programmnogo-modulya-abiturient-dlya-volskogo-pedagogicheskogo-kolledzha-im-f-i-panfyorova",
     "slug": "razrabotka-programmnogo-modulya-abiturient-dlya-volskogo-pedagogicheskogo-kolledzha-im-f-i-panfyorova",
     "title": "Разработка программного модуля \"абитуриент\" для Вольского педагогического колледжа им. Ф. И. Панфёрова",
@@ -544,6 +612,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razrabotka-programmnogo-modulya-abiturient-dlya-volskogo-pedagogicheskogo-kolledzha-im-f-i-panfyorova/pdf"
   },
   {
+    "id": 69,
     "url": "https://cyberleninka.ru/article/n/analiz-tsvetovoy-palitry-izobrazheniy-dlya-opredeleniya-preobladayuschih-tsvetovyh-tonov",
     "slug": "analiz-tsvetovoy-palitry-izobrazheniy-dlya-opredeleniya-preobladayuschih-tsvetovyh-tonov",
     "title": "Анализ цветовой палитры изображений для определения преобладающих цветовых тонов",
@@ -552,6 +621,7 @@
     "download_url": "https://cyberleninka.ru/article/n/analiz-tsvetovoy-palitry-izobrazheniy-dlya-opredeleniya-preobladayuschih-tsvetovyh-tonov/pdf"
   },
   {
+    "id": 70,
     "url": "https://cyberleninka.ru/article/n/ohvat-rasshirennogo-sprosa-posredstvom-seo-stranits-sozdannyh-pod-filtry",
     "slug": "ohvat-rasshirennogo-sprosa-posredstvom-seo-stranits-sozdannyh-pod-filtry",
     "title": "ОХВАТ РАСШИРЕННОГО СПРОСА ПОСРЕДСТВОМ SEO-СТРАНИЦ, СОЗДАННЫХ ПОД ФИЛЬТРЫ",
@@ -560,6 +630,7 @@
     "download_url": "https://cyberleninka.ru/article/n/ohvat-rasshirennogo-sprosa-posredstvom-seo-stranits-sozdannyh-pod-filtry/pdf"
   },
   {
+    "id": 71,
     "url": "https://cyberleninka.ru/article/n/optimizatsiya-zatrat-na-realizatsiyu-programmnyh-proektov",
     "slug": "optimizatsiya-zatrat-na-realizatsiyu-programmnyh-proektov",
     "title": "ОПТИМИЗАЦИЯ ЗАТРАТ НА РЕАЛИЗАЦИЮ ПРОГРАММНЫХ ПРОЕКТОВ",
@@ -568,6 +639,7 @@
     "download_url": "https://cyberleninka.ru/article/n/optimizatsiya-zatrat-na-realizatsiyu-programmnyh-proektov/pdf"
   },
   {
+    "id": 72,
     "url": "https://cyberleninka.ru/article/n/informatsionnaya-sistema-prognozirovaniya-dinamiki-lesnyh-resursov",
     "slug": "informatsionnaya-sistema-prognozirovaniya-dinamiki-lesnyh-resursov",
     "title": "Информационная система прогнозирования динамики лесных ресурсов",
@@ -576,6 +648,7 @@
     "download_url": "https://cyberleninka.ru/article/n/informatsionnaya-sistema-prognozirovaniya-dinamiki-lesnyh-resursov/pdf"
   },
   {
+    "id": 73,
     "url": "https://cyberleninka.ru/article/n/reshenie-zadachi-obespecheniya-zadannoy-proizvoditelnosti-vychislitelnyh-kompleksov-pri-postroenii-zaschischennyh-informatsionnyh",
     "slug": "reshenie-zadachi-obespecheniya-zadannoy-proizvoditelnosti-vychislitelnyh-kompleksov-pri-postroenii-zaschischennyh-informatsionnyh",
     "title": "Решение задачи обеспечения заданной производительности вычислительных комплексов при построении защищенных информационных систем",
@@ -584,6 +657,7 @@
     "download_url": "https://cyberleninka.ru/article/n/reshenie-zadachi-obespecheniya-zadannoy-proizvoditelnosti-vychislitelnyh-kompleksov-pri-postroenii-zaschischennyh-informatsionnyh/pdf"
   },
   {
+    "id": 74,
     "url": "https://cyberleninka.ru/article/n/analiz-web-tehnologiy-dlya-sozdaniya-onlayn-ploschadki",
     "slug": "analiz-web-tehnologiy-dlya-sozdaniya-onlayn-ploschadki",
     "title": "Анализ web-технологий для создания онлайн-площадки",
@@ -592,6 +666,7 @@
     "download_url": "https://cyberleninka.ru/article/n/analiz-web-tehnologiy-dlya-sozdaniya-onlayn-ploschadki/pdf"
   },
   {
+    "id": 75,
     "url": "https://cyberleninka.ru/article/n/veb-orientirovannaya-sreda-vizualizatsii-mnogomernogo-fronta-pareto",
     "slug": "veb-orientirovannaya-sreda-vizualizatsii-mnogomernogo-fronta-pareto",
     "title": "Веб-ориентированная среда визуализации многомерного фронта Парето",
@@ -600,6 +675,7 @@
     "download_url": "https://cyberleninka.ru/article/n/veb-orientirovannaya-sreda-vizualizatsii-mnogomernogo-fronta-pareto/pdf"
   },
   {
+    "id": 76,
     "url": "https://cyberleninka.ru/article/n/uvelichenie-proizvoditelnosti-http",
     "slug": "uvelichenie-proizvoditelnosti-http",
     "title": "Увеличение производительности http",
@@ -608,6 +684,7 @@
     "download_url": "https://cyberleninka.ru/article/n/uvelichenie-proizvoditelnosti-http/pdf"
   },
   {
+    "id": 77,
     "url": "https://cyberleninka.ru/article/n/sovremennye-osobennosti-razvitiya-meditsinskih-informatsionnyh-sistem",
     "slug": "sovremennye-osobennosti-razvitiya-meditsinskih-informatsionnyh-sistem",
     "title": "Современные особенности развития медицинских информационных систем",
@@ -616,6 +693,7 @@
     "download_url": "https://cyberleninka.ru/article/n/sovremennye-osobennosti-razvitiya-meditsinskih-informatsionnyh-sistem/pdf"
   },
   {
+    "id": 78,
     "url": "https://cyberleninka.ru/article/n/optimizatsiya-veb-interfeysa-na-storone-klienta-dlya-raboty-s-tablichnymi-dannymi",
     "slug": "optimizatsiya-veb-interfeysa-na-storone-klienta-dlya-raboty-s-tablichnymi-dannymi",
     "title": "Оптимизация веб-интерфейса на стороне клиента для работы с табличными данными",
@@ -624,6 +702,7 @@
     "download_url": "https://cyberleninka.ru/article/n/optimizatsiya-veb-interfeysa-na-storone-klienta-dlya-raboty-s-tablichnymi-dannymi/pdf"
   },
   {
+    "id": 79,
     "url": "https://cyberleninka.ru/article/n/prognozirovanie-urozhaynosti-na-osnove-analiza-kross-regionalnyh-dannyh",
     "slug": "prognozirovanie-urozhaynosti-na-osnove-analiza-kross-regionalnyh-dannyh",
     "title": "Прогнозирование урожайности на основе анализа кросс-региональных данных",
@@ -632,6 +711,7 @@
     "download_url": "https://cyberleninka.ru/article/n/prognozirovanie-urozhaynosti-na-osnove-analiza-kross-regionalnyh-dannyh/pdf"
   },
   {
+    "id": 80,
     "url": "https://cyberleninka.ru/article/n/prodvinutoe-keshirovanie-i-optimizatsiya-veb-prilozheniy-s-pomoschyu-tehnologii-swr",
     "slug": "prodvinutoe-keshirovanie-i-optimizatsiya-veb-prilozheniy-s-pomoschyu-tehnologii-swr",
     "title": "ПРОДВИНУТОЕ КЕШИРОВАНИЕ И ОПТИМИЗАЦИЯ ВЕБ-ПРИЛОЖЕНИЙ С ПОМОЩЬЮ ТЕХНОЛОГИИ SWR",
@@ -640,6 +720,7 @@
     "download_url": "https://cyberleninka.ru/article/n/prodvinutoe-keshirovanie-i-optimizatsiya-veb-prilozheniy-s-pomoschyu-tehnologii-swr/pdf"
   },
   {
+    "id": 81,
     "url": "https://cyberleninka.ru/article/n/issledovanie-sredstv-postroeniya-modeley-ishodnogo-koda-programm-na-yazykah-c-i-c",
     "slug": "issledovanie-sredstv-postroeniya-modeley-ishodnogo-koda-programm-na-yazykah-c-i-c",
     "title": "Исследование средств построения моделей исходного кода программ на языках c и C++",
@@ -648,6 +729,7 @@
     "download_url": "https://cyberleninka.ru/article/n/issledovanie-sredstv-postroeniya-modeley-ishodnogo-koda-programm-na-yazykah-c-i-c/pdf"
   },
   {
+    "id": 82,
     "url": "https://cyberleninka.ru/article/n/poisk-effektivnogo-nabora-vzaimodei-stvuyuschih-komponentov-programmnyh-sistem-na-osnove-roevogo-intellekta",
     "slug": "poisk-effektivnogo-nabora-vzaimodei-stvuyuschih-komponentov-programmnyh-sistem-na-osnove-roevogo-intellekta",
     "title": "Поиск эффективного набора взаимодействующих компонентов программных систем на основе роевого интеллекта",
@@ -656,6 +738,7 @@
     "download_url": "https://cyberleninka.ru/article/n/poisk-effektivnogo-nabora-vzaimodei-stvuyuschih-komponentov-programmnyh-sistem-na-osnove-roevogo-intellekta/pdf"
   },
   {
+    "id": 83,
     "url": "https://cyberleninka.ru/article/n/bezopasnost-html5",
     "slug": "bezopasnost-html5",
     "title": "Безопасность HTML5",
@@ -664,6 +747,7 @@
     "download_url": "https://cyberleninka.ru/article/n/bezopasnost-html5/pdf"
   },
   {
+    "id": 84,
     "url": "https://cyberleninka.ru/article/n/gps-navigatsiya-v-avtomatizirovannyh-sistemah-dispetcherizatsii-i-monitoringa-dvizheniya-transporta",
     "slug": "gps-navigatsiya-v-avtomatizirovannyh-sistemah-dispetcherizatsii-i-monitoringa-dvizheniya-transporta",
     "title": "GPS навигация в автоматизированных системах диспетчеризации и мониторинга движения транспорта",
@@ -672,6 +756,7 @@
     "download_url": "https://cyberleninka.ru/article/n/gps-navigatsiya-v-avtomatizirovannyh-sistemah-dispetcherizatsii-i-monitoringa-dvizheniya-transporta/pdf"
   },
   {
+    "id": 85,
     "url": "https://cyberleninka.ru/article/n/razrabotka-modulya-upravleniya-urovnem-osveschyonnosti-lokalnyh-zon-mnogofunktsionalnogo-pomescheniya-na-osnove-obektno",
     "slug": "razrabotka-modulya-upravleniya-urovnem-osveschyonnosti-lokalnyh-zon-mnogofunktsionalnogo-pomescheniya-na-osnove-obektno",
     "title": "Разработка модуля управления уровнем освещённости локальных зон многофункционального помещения на основе объектно-ориентированного подхода",
@@ -680,6 +765,7 @@
     "download_url": "https://cyberleninka.ru/article/n/razrabotka-modulya-upravleniya-urovnem-osveschyonnosti-lokalnyh-zon-mnogofunktsionalnogo-pomescheniya-na-osnove-obektno/pdf"
   },
   {
+    "id": 86,
     "url": "https://cyberleninka.ru/article/n/arhitektura-mobilnogo-trenazhera-pogruzochno-razgruzochnogo-ustroystva",
     "slug": "arhitektura-mobilnogo-trenazhera-pogruzochno-razgruzochnogo-ustroystva",
     "title": "Архитектура мобильного тренажера погрузочно-разгрузочного устройства",
@@ -688,6 +774,7 @@
     "download_url": "https://cyberleninka.ru/article/n/arhitektura-mobilnogo-trenazhera-pogruzochno-razgruzochnogo-ustroystva/pdf"
   },
   {
+    "id": 87,
     "url": "https://cyberleninka.ru/article/n/ispolzovanie-platformy-bitriks-dlya-sozdaniya-vysokonagruzhennyh-veb-prilozheniy",
     "slug": "ispolzovanie-platformy-bitriks-dlya-sozdaniya-vysokonagruzhennyh-veb-prilozheniy",
     "title": "ИСПОЛЬЗОВАНИЕ ПЛАТФОРМЫ БИТРИКС ДЛЯ СОЗДАНИЯ ВЫСОКОНАГРУЖЕННЫХ ВЕБ-ПРИЛОЖЕНИЙ",
@@ -696,6 +783,7 @@
     "download_url": "https://cyberleninka.ru/article/n/ispolzovanie-platformy-bitriks-dlya-sozdaniya-vysokonagruzhennyh-veb-prilozheniy/pdf"
   },
   {
+    "id": 88,
     "url": "https://cyberleninka.ru/article/n/reshenie-zadachi-postroeniya-grafa-zavisimostey-programmnyh-moduley-v-sisteme-node-js",
     "slug": "reshenie-zadachi-postroeniya-grafa-zavisimostey-programmnyh-moduley-v-sisteme-node-js",
     "title": "Решение задачи построения графа зависимостей программных модулей в системе node. JS",
@@ -704,6 +792,7 @@
     "download_url": "https://cyberleninka.ru/article/n/reshenie-zadachi-postroeniya-grafa-zavisimostey-programmnyh-moduley-v-sisteme-node-js/pdf"
   },
   {
+    "id": 89,
     "url": "https://cyberleninka.ru/article/n/analiz-metodov-prostranstvennoy-navigatsii-i-trassirovki-marshrutov-s-lineynymi-ogranicheniyami",
     "slug": "analiz-metodov-prostranstvennoy-navigatsii-i-trassirovki-marshrutov-s-lineynymi-ogranicheniyami",
     "title": "Анализ методов пространственной навигации и трассировки маршрутов с линейными ограничениями",
@@ -712,6 +801,7 @@
     "download_url": "https://cyberleninka.ru/article/n/analiz-metodov-prostranstvennoy-navigatsii-i-trassirovki-marshrutov-s-lineynymi-ogranicheniyami/pdf"
   },
   {
+    "id": 90,
     "url": "https://cyberleninka.ru/article/n/rozrobka-instrumentalnih-zasobiv-dlya-pidtrimki-protsesu-analizu-diagram-potokiv-danih",
     "slug": "rozrobka-instrumentalnih-zasobiv-dlya-pidtrimki-protsesu-analizu-diagram-potokiv-danih",
     "title": "РОЗРОБКА іНСТРУМЕНТАЛЬНИХ ЗАСОБіВ ДЛЯ ПіДТРИМКИ ПРОЦЕСУ АНАЛіЗУ ДіАГРАМ ПОТОКіВ ДАНИХ",
@@ -720,6 +810,7 @@
     "download_url": "https://cyberleninka.ru/article/n/rozrobka-instrumentalnih-zasobiv-dlya-pidtrimki-protsesu-analizu-diagram-potokiv-danih/pdf"
   },
   {
+    "id": 91,
     "url": "https://cyberleninka.ru/article/n/osobennosti-razrabotki-krossplatformennyh-mobilnyh-prilozheniy",
     "slug": "osobennosti-razrabotki-krossplatformennyh-mobilnyh-prilozheniy",
     "title": "Особенности разработки кроссплатформенных мобильных приложений",
@@ -728,6 +819,7 @@
     "download_url": "https://cyberleninka.ru/article/n/osobennosti-razrabotki-krossplatformennyh-mobilnyh-prilozheniy/pdf"
   },
   {
+    "id": 92,
     "url": "https://cyberleninka.ru/article/n/instrumenty-podhody-sposoby-optimizatsii-veb-prilozheniy-na-primere-net-i-android",
     "slug": "instrumenty-podhody-sposoby-optimizatsii-veb-prilozheniy-na-primere-net-i-android",
     "title": "Инструменты/подходы/способы оптимизации веб-приложений: на примере . Net и Android",
@@ -736,6 +828,7 @@
     "download_url": "https://cyberleninka.ru/article/n/instrumenty-podhody-sposoby-optimizatsii-veb-prilozheniy-na-primere-net-i-android/pdf"
   },
   {
+    "id": 93,
     "url": "https://cyberleninka.ru/article/n/osobennosti-primeneniya-predmetno-orientirovannyh-yazykov-dlya-testirovaniya-veb-prilozheniy",
     "slug": "osobennosti-primeneniya-predmetno-orientirovannyh-yazykov-dlya-testirovaniya-veb-prilozheniy",
     "title": "Особенности применения предметно-ориентированных языков для тестирования веб-приложений",
@@ -744,6 +837,7 @@
     "download_url": "https://cyberleninka.ru/article/n/osobennosti-primeneniya-predmetno-orientirovannyh-yazykov-dlya-testirovaniya-veb-prilozheniy/pdf"
   },
   {
+    "id": 94,
     "url": "https://cyberleninka.ru/article/n/metody-optimizatsii-dostupnosti-informatsionnyh-resursov-uchrezhdeniy-kultury",
     "slug": "metody-optimizatsii-dostupnosti-informatsionnyh-resursov-uchrezhdeniy-kultury",
     "title": "Методы оптимизации доступности информационных ресурсов учреждений культуры",
@@ -752,6 +846,7 @@
     "download_url": "https://cyberleninka.ru/article/n/metody-optimizatsii-dostupnosti-informatsionnyh-resursov-uchrezhdeniy-kultury/pdf"
   },
   {
+    "id": 95,
     "url": "https://cyberleninka.ru/article/n/programmnoe-obespechenie-na-osnove-veb-tehnologiy-dlya-geonavigatsii-neftegazovyh-skvazhin",
     "slug": "programmnoe-obespechenie-na-osnove-veb-tehnologiy-dlya-geonavigatsii-neftegazovyh-skvazhin",
     "title": "Программное обеспечение на основе веб-технологий для геонавигации нефтегазовых скважин",
@@ -760,6 +855,7 @@
     "download_url": "https://cyberleninka.ru/article/n/programmnoe-obespechenie-na-osnove-veb-tehnologiy-dlya-geonavigatsii-neftegazovyh-skvazhin/pdf"
   },
   {
+    "id": 96,
     "url": "https://cyberleninka.ru/article/n/tehnologiya-postroeniya-korporativnogo-web-sayta",
     "slug": "tehnologiya-postroeniya-korporativnogo-web-sayta",
     "title": "Технология построения корпоративного Web-сайта",
@@ -768,6 +864,7 @@
     "download_url": "https://cyberleninka.ru/article/n/tehnologiya-postroeniya-korporativnogo-web-sayta/pdf"
   },
   {
+    "id": 97,
     "url": "https://cyberleninka.ru/article/n/optimizatsiya-raschetov-v-fizicheskoy-arhitekture-za-schet-primeneniya-programmnogo-obespecheniya",
     "slug": "optimizatsiya-raschetov-v-fizicheskoy-arhitekture-za-schet-primeneniya-programmnogo-obespecheniya",
     "title": "ОПТИМИЗАЦИЯ РАСЧЕТОВ В ФИЗИЧЕСКОЙ АРХИТЕКТУРЕ ЗА СЧЕТ ПРИМЕНЕНИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ",
@@ -776,6 +873,7 @@
     "download_url": "https://cyberleninka.ru/article/n/optimizatsiya-raschetov-v-fizicheskoy-arhitekture-za-schet-primeneniya-programmnogo-obespecheniya/pdf"
   },
   {
+    "id": 98,
     "url": "https://cyberleninka.ru/article/n/imitatsiya-dvizheniya-avtomobiley-po-grafu-marshruta",
     "slug": "imitatsiya-dvizheniya-avtomobiley-po-grafu-marshruta",
     "title": "Имитация движения автомобилей по графу маршрута",
@@ -784,6 +882,7 @@
     "download_url": "https://cyberleninka.ru/article/n/imitatsiya-dvizheniya-avtomobiley-po-grafu-marshruta/pdf"
   },
   {
+    "id": 99,
     "url": "https://cyberleninka.ru/article/n/instrumenty-dlya-vypolneniya-i-emulyatsii-kvantovyh-vychisleniy",
     "slug": "instrumenty-dlya-vypolneniya-i-emulyatsii-kvantovyh-vychisleniy",
     "title": "ИНСТРУМЕНТЫ ДЛЯ ВЫПОЛНЕНИЯ И ЭМУЛЯЦИИ КВАНТОВЫХ ВЫЧИСЛЕНИЙ",
@@ -792,6 +891,7 @@
     "download_url": "https://cyberleninka.ru/article/n/instrumenty-dlya-vypolneniya-i-emulyatsii-kvantovyh-vychisleniy/pdf"
   },
   {
+    "id": 100,
     "url": "https://cyberleninka.ru/article/n/optimizatsiya-informatsionnoy-sistemy-avtomasterskoy",
     "slug": "optimizatsiya-informatsionnoy-sistemy-avtomasterskoy",
     "title": "Оптимизация информационной системы автомастерской",

@@ -41,6 +41,9 @@ def main():
         logger.debug("Creating DB table for articles")
         db.execute("""create table if not exists article
             (
+                id integer not null
+                    constraint article_pk
+                        primary key autoincrement,
                 url                  text not null,
                 slug                 text,
                 title                text,
