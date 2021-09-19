@@ -1,0 +1,24 @@
+version: '3.7'
+
+services:
+  selenium-hub:
+    image: selenium/hub:4.0.0-rc-2-prerelease-20210916
+    ports:
+      - "4442:4442"
+      - "4443:4443"
+      - "4444:4444"
+  selenium-chrome:
+    image: selenium/node-chrome:4.0.0-rc-2-prerelease-20210916
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+    deploy:
+      replicas: 3
+    volumes:
+      - target: /dev/shm
+        type: tmpfs
+        tmpfs:
+          # cannot specify shm_size, workaround for https://github.com/moby/moby/issues/26714
+          size: 2048000000
+    entrypoint: bash -c 'SE_OPTS="--host $$HOSTNAME" /opt/bin/entry_point.sh'
