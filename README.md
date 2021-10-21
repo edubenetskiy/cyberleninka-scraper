@@ -65,6 +65,10 @@ Example:
 ./analyse.py --max-articles=10 интероперабельность
 ```
 
+Example output tag cloud:
+
+![](example-output/tag-cloud.png)
+
 [CyberLeninka]: https://cyberleninka.ru/
 
 [Docker]: https://www.docker.com/
