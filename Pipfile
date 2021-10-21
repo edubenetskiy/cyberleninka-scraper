@@ -8,6 +8,9 @@ requests = "*"
 beautifulsoup4 = "*"
 lxml = "*"
 selenium = "*"
+natasha = "*"
+wordcloud = "*"
+'pdfminer.six' = "*"
 
 [dev-packages]
 

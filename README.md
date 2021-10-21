@@ -55,6 +55,16 @@ also outputs results to console.
 
 See `./search-cyberleninka.py --help` for help.
 
+### Create tag cloud and list person names
+
+Run the script `analyse.py` and provide keywords for search.
+
+Example:
+
+```shell
+./analyse.py --max-articles=10 интероперабельность
+```
+
 [CyberLeninka]: https://cyberleninka.ru/
 
 [Docker]: https://www.docker.com/
